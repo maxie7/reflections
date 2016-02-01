@@ -21,3 +21,8 @@ If you have any doubts of making changes into your project you can create experi
 How do the diagrams help you visualize the branch structure?
 
 The diagrams shows the main line and branches and help understanding where is the last stable (often master) branch and where is experimental, and how they relay to each other, etc.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging is one master branch that contains the commits of the second branch too.
