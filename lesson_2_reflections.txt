@@ -26,3 +26,9 @@ The diagrams shows the main line and branches and help understanding where is th
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging is one master branch that contains the commits of the second branch too.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
++: it (auto) joins the files into one branch accepting all the changes
+-: it (auto) has both code changes in one file if it was modifying during previous commit.
