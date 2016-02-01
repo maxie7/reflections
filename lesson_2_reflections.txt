@@ -11,3 +11,13 @@ The staging area is an area where new files are waiting for to be commited. So i
 How can you use the staging area to make sure you have one commit per logical change?
 
 Yuo can compare your staging area with the working directory using 'git diff' and when the changes are enough for a logical perfect poing you should do a commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you have any doubts of making changes into your project you can create experimental branch and do changes in it. And when you are ready (confident) you achieve your goal you always can switch to the master branch.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams shows the main line and branches and help understanding where is the last stable (often master) branch and where is experimental, and how they relay to each other, etc.
