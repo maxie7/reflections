@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The system informs me like 'Initialized empty Git repository in ...(path to the repo)' and we need to create the beginning point of making a commit (the before commit state where is no commit (or commit = 0)).
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an area where new files are waiting for to be commited. So if you want to add some files to your project you'll need first to add them to the staging area, it's like a buffer among the working directory and commited point.
