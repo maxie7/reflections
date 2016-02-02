@@ -32,3 +32,8 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 
 +: it (auto) joins the files into one branch accepting all the changes
 -: it (auto) has both code changes in one file if it was modifying during previous commit.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because i only know when i need to update my repository.
