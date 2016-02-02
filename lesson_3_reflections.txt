@@ -21,3 +21,8 @@ See the documentation in GitHub or in other sources.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can erase and get back with your and other changes and etc.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+GitHub is great, but you can use Bitbucket instead of it.
