@@ -1,3 +1,18 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 When i have more than one work place or i just used to work remotely.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
++: it (auto) joins the files into one branch accepting all the changes
+-: it (auto) has both code changes in one file if it was modifying during previous commit.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because i only know when i need to update my repository.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+See the documentation in GitHub or in other sources.
