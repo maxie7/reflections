@@ -28,12 +28,3 @@ What is the result of merging two branches together? Why do we represent it in t
 The result of merging is one master branch that contains the commits of the second branch too.
 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-
-+: it (auto) joins the files into one branch accepting all the changes
--: it (auto) has both code changes in one file if it was modifying during previous commit.
-
-
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-
-Because i only know when i need to update my repository.
