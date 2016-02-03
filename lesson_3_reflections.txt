@@ -26,3 +26,8 @@ You can erase and get back with your and other changes and etc.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 GitHub is great, but you can use Bitbucket instead of it.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I make changes in a separate branch when i'm not sure the changes i made (want to make) will be accepted by all the collaborators of the project at GitHub. Benefits: you can develop several ways of making changes and then choose only one branch and to merge it with the master branch and the others can be deleted.
